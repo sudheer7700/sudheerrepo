@@ -6,6 +6,7 @@ CREATE COMPUTE MODULE GIT_Flow_Compute
 		-- CALL CopyMessageHeaders();
 		-- CALL CopyEntireMessage();
 		SET OutputRoot.XMLNSC.Student.Name = 'Sudheer';
+		SET OutputRoot.XMLNSC.Student.Name = 'Suji';
 		RETURN TRUE;
 	END;
 
