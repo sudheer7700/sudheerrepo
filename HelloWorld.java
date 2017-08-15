@@ -11,5 +11,6 @@ class HelloWorld
 		System.out.println("Time is 8:07 AM EST");
 		System.out.println("Time is 8:15 AM EST");
 		System.out.println("Time is 8:47 AM EST");
+		System.out.println("Time is 8:51 AM EST");
 	}
 }
