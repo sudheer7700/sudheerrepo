@@ -9,9 +9,9 @@
       <nodes xmi:type="ComIbmFileInput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_1" location="94,145" inputDirectory="/home/file/in">
         <translation xmi:type="utility:ConstantString" string="File Input"/>
       </nodes>
-      <nodes xmi:type="ComIbmFileOutput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_2" location="267,145" outputDirectory="/home/file/out" outputFilename="Test3.txt">
+      <nodes xmi:type="ComIbmFileOutput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_2" location="267,145" outputDirectory="/home/file/out" outputFilename="Test55.txt">
         <translation xmi:type="utility:ConstantString" string="File Output"/>
-        <longDescription xmi:type="utility:ConstantString" string="Updated file name to Test3.txt"/>
+        <longDescription xmi:type="utility:ConstantString" string="Updated file name to Test55.txt"/>
       </nodes>
       <connections xmi:type="eflow:FCMConnection" xmi:id="FCMConnection_1" targetNode="FCMComposite_1_2" sourceNode="FCMComposite_1_1" sourceTerminalName="OutTerminal.out" targetTerminalName="InTerminal.in"/>
     </composition>
